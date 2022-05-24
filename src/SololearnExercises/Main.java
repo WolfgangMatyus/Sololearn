@@ -1,4 +1,4 @@
-package com.company;
+package SololearnExercises;
 
 public class Main {
 

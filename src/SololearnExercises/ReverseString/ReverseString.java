@@ -1,4 +1,4 @@
-package com.company.ReverseString;
+package SololearnExercises.ReverseString;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;
